@@ -1,0 +1,25 @@
+{
+  "name": "solana-day",
+  "version": "1.0.0",
+  "description": "Zhandos Orymbetov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vechnyiusername/solana-day.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vechnyiusername/solana-day/issues"
+  },
+  "homepage": "https://github.com/vechnyiusername/solana-day#readme",
+  "dependencies": {
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.98.4",
+    "bs58": "^6.0.0"
+  }
+}
